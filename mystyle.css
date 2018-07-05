@@ -1,1 +1,30 @@
+body{
+    background-color:lightpink;
+}
 
+h1{
+    color:black;
+    text-aline: center;
+    text-decoration: underline;
+}
+
+p{
+  color:white;
+  font-family:verdana;
+  fontsize: 20px;
+}
+h2{
+  color:black;
+  text-aline:center;
+  text-decoration: underline;
+}
+h3{
+  color:black;
+  text-aline:center;
+  text-decoration: underline
+}
+h4{
+  color:black;
+  text aline:center;
+  text-decoration: underline;
+}
